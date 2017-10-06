@@ -19,12 +19,12 @@ Just when you thought this wasn't like school.... this onboarding aims to teach 
 
 ## TODO
 1. Fork this repository
-- Clone your fork. 
-- Run `catkin_make` to ensure that everything compiles
-- Open a branch on your fork for your solution (call it whatever you want)
-- Copy `sample_package` to `your_name_here` (replace with your name...) 
-- Update all the files `your_name_here` as appropriate (you'll have to read through them all and update them if needed. If you're not sure what a file is for, feel free to google it or ask us).
-- Develop a solution based on the github issue mentioned above (**make sure to write some gTest's and at least one ROSTest along the way**)
-- Open a pull request to this repositry with your solution
+1. Clone your fork. 
+1. Run `catkin_make` to ensure that everything compiles
+1. Open a branch on your fork for your solution (call it whatever you want)
+1. Copy `sample_package` to `your_name_here` (replace with your name...) 
+1. Update all the files `your_name_here` as appropriate (you'll have to read through them all and update them if needed. If you're not sure what a file is for, feel free to google it or ask us).
+1. Develop a solution based on the github issue mentioned above (**make sure to write some gTest's and at least one ROSTest along the way**)
+1. Open a pull request to this repositry with your solution
 
 
