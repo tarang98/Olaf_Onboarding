@@ -5,7 +5,7 @@ Welcome to Snowbots! This repo is where you'll be working on a onboarding challe
 
 ### Olaf
 Our robot for IARRC, Olaf is a modified RC car that you'll interface with via USB
-**PICTURE SHOULD GO HERE**
+![image](https://user-images.githubusercontent.com/9075711/31301386-50a93e6c-aaae-11e7-90fe-a90018233310.png)
 
 ## The Issue 
 When you're assigned a project, it will be in the form of a Github Issue, so it's important that you can read and interpret them, and also ask for clarification if needed. You can read the issue for the this onboarding under the `Issues` page on this repository.
